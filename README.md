@@ -1,2 +1,2 @@
-# ems
-Easy but useful Management System
+# EMS
+Easy but useful Management System Build with CakePHP
